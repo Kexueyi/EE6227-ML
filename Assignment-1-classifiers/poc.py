@@ -356,6 +356,7 @@ class homemade_LDA:
         self.eig_vectors = None
         self.class_stats_lda = None
 
+    # train LDA model
     def fit(self, X, y):
         # 计算类均值和总体均值
         class_means, overall_mean = self._compute_means(X, y)
