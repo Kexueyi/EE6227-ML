@@ -1,5 +1,5 @@
 # EE6227-ML-Assignment
-NTU EE7226 Gentic Algorithm & Machine Learning - Machine Learning Part 
+NTU EE7226 Genetic Algorithm & Machine Learning - Machine Learning Part 
 
 ## Repository Overview
 
