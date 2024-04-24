@@ -9,20 +9,24 @@ Please Find more details for assignment requirements in the `Assignment-1-classi
 
 ## Repository Overview
 
+
 - `Assignment-1-classifiers/`: 
-  - `bayes_lda.pdf`: Submission report.
+  - `data/`: Training and test set in `.mat` format.
   - `poc_classifier.ipynb`: Proof of concept for the classifiers.
-  - `poc.py`: Generated py file from the notebook.
+  - `main.py`: Generated py file from the notebook.
   - `results/`: Results of the classifiers, .csv and .mat format.
 - `Assignment-2-classification_tree/`: 
-  - `clf.pdf`: Submission report.
-  - `preprocess.ipynb`: Data preprocessing for the training set.
-  - `class_tree.ipynb`: Handmade binary classification tree.
-  - `results/`: Results of the classifiers, .xlsx format.
+  - `data/`: Training and test set in `.xlsx` format.
   - `preprocess/`: Preprocessed training set, .xlsx format.
     - `add_head.xlsx`: Orignal training set with added head.
     - `sto_cap_train.xlsx`: Stocasitcally imputed + capped training set.
+  - `preprocess.ipynb`: Data preprocessing for the training set.
+  - `class_tree.ipynb`: Handmade binary classification tree.
+  - `results/`: Results of the classifiers, .xlsx format.
   - `backup/`: Backup file for pre-puring in classfication tree.
+- `submission/`: 
+  - `Ass1_bayes.pdf`: Submission report for assignment 1.
+  - `Ass2_classi_tree.pdf`: Submission report for assignment 2.
 - `README.md`: This file.
 - `requirements.txt`: List of packages required to run the code.
 
