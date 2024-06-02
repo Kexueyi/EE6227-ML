@@ -24,9 +24,7 @@ Please Find more details for assignment requirements in the `Assignment-1-classi
   - `class_tree.ipynb`: Handmade binary classification tree.
   - `results/`: Results of the classifiers, .xlsx format.
   - `backup/`: Backup file for pre-puring in classfication tree.
-- `submission/`: 
-  - `Ass1_bayes.pdf`: Submission report for assignment 1.
-  - `Ass2_classi_tree.pdf`: Submission report for assignment 2.
+- `submission/`: submission files for both assignments.
 - `README.md`: This file.
 - `requirements.txt`: List of packages required to run the code.
 
